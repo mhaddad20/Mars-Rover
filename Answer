@@ -19,7 +19,7 @@ let limit_x = Number(initial_grid[0])
 let limit_y = Number(initial_grid[1])
 
 //directions to go
-let full_direction=['west','north','east','s']
+let full_direction=['west','north','east','south']
 // starting direction
 let direction=1
 
